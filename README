@@ -1,0 +1,2 @@
+Note: To execute recsys code in python-recsys/crimePrediction.ipynb, we need to install recsys library.
+Other prediction methods work without this step. The code includes Naive Bayes and Decision Tree Classifiers.
